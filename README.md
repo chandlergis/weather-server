@@ -21,7 +21,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-server.git
+git clone https://github.com/chandlergis/weather-server.git
 cd weather-server
 ```
 
@@ -217,9 +217,9 @@ node build/index.js 2>debug.log
 如果您遇到问题或有建议，请：
 
 1. 查看[故障排除](#故障排除)部分
-2. 搜索现有的[Issues](https://github.com/YOUR_USERNAME/weather-server/issues)
+2. 搜索现有的[Issues](https://github.com/chandlergis/weather-server/issues)
 3. 创建新的Issue描述您的问题
 
 ---
 
-**注意：** 请将README中的 `YOUR_USERNAME` 替换为您的实际GitHub用户名。
+**注意：** 请将README中的 `chandlergis` 替换为您的实际GitHub用户名（如果需要）。
